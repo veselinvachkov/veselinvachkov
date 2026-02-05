@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @veselinvachkov
-- 👀 I’m interested in Solidity and JAVA development
-- 🌱 I’m currently learning WEB 3 security and Solidity in depth
-- 📫 How to reach me: For business proposals contact me at veselin.gvv@gmail.com
-- ⚡ Fun fact: I love playing football and fishing. I am Bulgarian and also know German and English at C1 level
-- 🎓 Degree: I study Computer Science Bachelor at the Technical University of Bulgaria, I also went through the SoftUni academy
+# Audit Portfolio
 
-<!---
-veselinvachkov/veselinvachkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm **Veselin Vachkov**, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing **EVM-based smart contracts since Dec 2024**.
+
+- Sherlock profile - [vesko210](https://audits.sherlock.xyz/watson/Vesko210)
+- **X** - [vesko210](https://x.com/Vesko_210)
+- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view?usp=sharing)
+
+---
+
+## Education
+- Bachelor’s Degree in Computer Systems and Technologies - Technical University | Sofia
+- Software University Courses - Core Java & Object-Oriented Design & database
+
+---
+
+## Audit Contests
+
+| Date     | Contest                              | Platform   | Findings                 | Earnings        | Rank     |
+|----------|--------------------------------------|------------|--------------------------|----------------|----------|
+| Dec 2025 | Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | ...            | #1 🥇    |
+| Dec 2025 | Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | ...            | #3 🥉    |
+| Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | ...            | #3 🥉    |
+| Nov 2025 | stNXM by EaseDeFi                    | Code4rena  | 4 M                      | 4.51 USDC      | #36      |
+| Oct 2025 | Avon-Contracts                       | Cantina    | 6 M, 2 L                 | 524.22 USDC    | #6       |
+| Jun 2025 | Summer.fi                            | Sherlock   | 1 M                      | 9.82 USDC      | #8       |
+| Jun 2025 | Morpheus                             | Code4rena  | 1 M                      | 6.61 USDC      | #10      |
+| Jun 2025 | pike-tapio-monrepo                   | Cantina    | 2 M 4 L                  | 130.34 USDC    | #18      |
+| Jun 2025 | succinct-network                     | Cantina    | 3 M                      | 249.3 USDC     | #27      |
+| May 2025 | Blackhole                            | Code4rena  | 2 M                      | 183.07 USDC    | #17      |
+| May 2025 | ammalgam-contracts                   | Sherlock   | 1 H                      | 114.56 USDC    | #18      |
+| Apr 2025 | mighty-contracts                     | Cantina    | 4 H, 3 L                 | 491.1 USDC     | #15      |
+| Feb 2025 | TermMax                              | Cantina    | 2 M                      | 211.47 USDC    | #9       |
+| Dec 2024 | Flex Perpetuals                      | Code4rena  | 1 M                      | 0.93 USDC      | #6       |
+
+
+
+## Private Engagements
+
+| Client Name            | Worked with         | Date     | Report       |
+|------------------------|---------------------|----------|--------------|
+| Morpheus               | Morpheus            | Jun 2025 | Still Private|
