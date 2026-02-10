@@ -1,6 +1,6 @@
 # Audit Portfolio
 
-Hi, I'm **Veselin Vachkov**, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing **EVM-based smart contracts since Dec 2024**.
+Hi, I'm **Veselin Vachkov**, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing **since Dec 2024**.
 
 - Sherlock profile - [Vesko210](https://audits.sherlock.xyz/watson/Vesko210)
 - **X** - [Vesko210](https://x.com/Vesko_210)
@@ -20,7 +20,7 @@ Hi, I'm **Veselin Vachkov**, a Web3 security researcher who loves to compete and
 |----------|--------------------------------------|------------|--------------------------|----------------|----------|
 | Dec 2025 | Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | ...            | #1 🥇    |
 | Dec 2025 | Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | ...            | #3 🥉    |
-| Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | ...            | #3 🥉    |
+| Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | 2,652.15 USDC  | #3 🥉    |
 | Nov 2025 | stNXM by EaseDeFi                    | Code4rena  | 4 M                      | 4.51 USDC      | #36      |
 | Oct 2025 | Avon-Contracts                       | Cantina    | 6 M, 2 L                 | 524.22 USDC    | #6       |
 | Sep 2025 | Summer.fi                            | Sherlock   | 1 M                      | 9.82 USDC      | #8       |
