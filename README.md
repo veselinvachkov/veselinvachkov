@@ -4,7 +4,7 @@ Hi, I'm **Veselin Vachkov**, a Web3 security researcher who loves to compete and
 
 - Sherlock profile - [Vesko210](https://audits.sherlock.xyz/watson/Vesko210)
 - **X** - [Vesko210](https://x.com/Vesko_210)
-- [Short Resume]([[https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view?usp=sharing](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view?usp=sharing](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)))
+- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
 
 ---
 
