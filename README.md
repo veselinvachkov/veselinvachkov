@@ -2,8 +2,9 @@
 
 Hi, I'm **Veselin Vachkov**, a Web3 security researcher who loves to compete and secure smart contracts. I have been auditing **since Dec 2024**.
 
-- **X** - [Vesko210](https://x.com/Vesko_210)
+- Co-founder https://valvessecurity.com
 - [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
+- **X** - [Vesko210](https://x.com/Vesko_210)
 
 ---
 
