@@ -25,16 +25,16 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 | Date     | Contest                              | Platform   | Findings                 | Earnings        | Rank     |
 |----------|-------------------------------|------------|--------------------------|----------------|----------|
-| Dec 2025 | Panoptic: Next Core           | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 4 M 1 L  (1 solo)    | 9,260.89 USDC  | #1 🥇    |
-| Dec 2025 | Monolith                      | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H 1 M                  | 1,691.11 USDC  | #3 🥉    |
-| Nov 2025 | SukukFi                       | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 2 M                  | 2,652.15 USDC  | #3 🥉    |
-| Oct 2025 | Avon-Contracts                | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 6 M, 2 L                 | 524.22 USDC    | #6       |
-| Sep 2025 | Summer.fi                     | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 M                      | 9.82 USDC      | #8       |
-| Aug 2025 | Morpheus                      | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 M                      | 6.61 USDC      | #10      |
-| Jun 2025 | pike-tapio-monrepo            | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 2 M 4 L                  | 130.34 USDC    | #18      |
-| Jun 2025 | succinct-network              | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 3 M                      | 249.3 USDC     | #27      |
-| May 2025 | Blackhole                     | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 2 M                      | 183.07 USDC    | #17      |
-| May 2025 | ammalgam-contracts            | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H                      | 114.56 USDC    | #18      |
-| Apr 2025 | mighty-contracts              | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 4 H, 3 L                 | 491.1 USDC     | #15      |
-| Feb 2025 | TermMax                       | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 2 M                      | 211.47 USDC    | #9       |
-| Dec 2024 | Flex Perpetuals               | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 M                      | 0.93 USDC      | #6       |
+| Dec 2025 | Panoptic: Next Core           | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 4 M 1 L  (1 solo)    | $9,260.89 | #1 🥇    |
+| Dec 2025 | Monolith                      | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H 1 M                  | $1,691.11 | #3 🥉    |
+| Nov 2025 | SukukFi                       | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 2 M                  | $2,652.15 | #3 🥉    |
+| Oct 2025 | Avon-Contracts                | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 6 M, 2 L                 | $524.22 | #6       |
+| Sep 2025 | Summer.fi                     | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 M                      | $9.82 | #8       |
+| Aug 2025 | Morpheus                      | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 M                      | $6.61       | #10      |
+| Jun 2025 | pike-tapio-monrepo            | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 2 M 4 L                  | $130.34     | #18      |
+| Jun 2025 | succinct-network              | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 3 M                      | $249.3      | #27      |
+| May 2025 | Blackhole                     | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 2 M                      | $183.07     | #17      |
+| May 2025 | ammalgam-contracts            | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H                      | $114.56     | #18      |
+| Apr 2025 | mighty-contracts              | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 4 H, 3 L                 | $491.1      | #15      |
+| Feb 2025 | TermMax                       | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 2 M                      | $211.47     | #9       |
+| Dec 2024 | Flex Perpetuals               | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 M                      | $0.93       | #6       |
