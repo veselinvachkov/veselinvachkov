@@ -29,6 +29,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 | Date     | Contest                              | Platform   | Findings                 | Earnings        | Rank     |
 |----------|-------------------------------|------------|--------------------------|----------------|----------|
+| Jan 2025 | Flying Tulip           | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)  |   ---   | $4,309.48 | #4     |
 | Dec 2025 | Panoptic: Next Core           | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 4 M 1 L  (1 solo)    | $9,260.89 | #1 🥇    |
 | Dec 2025 | Monolith                      | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H 1 M                  | $1,691.11 | #3 🥉    |
 | Nov 2025 | SukukFi                       | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 2 M                  | $2,652.15 | #3 🥉    |
