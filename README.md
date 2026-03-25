@@ -20,7 +20,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 |----------|-------------|------|--------|
 | **Opinion** | [![Pashov](https://img.shields.io/badge/Pashov-00FF00?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
 | **Gemint** | [![Pashov](https://img.shields.io/badge/Pashov-00FF00?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
-| **Panoptic** | [![Panoptic](https://img.shields.io/badge/Panoptic-6a1bf5?style=flat&logoColor=white)](https://panoptic.xyz/) | Mar 2026 | Private |
+| **Panoptic** | [![Panoptic](https://img.shields.io/badge/Panoptic-6a1bf5?style=flat&logoColor=white)](https://panoptic.xyz/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf) |
 | **UniVoucher** | [![UniVoucher](https://img.shields.io/badge/UniVoucher-6566e8?style=flat&logoColor=purple)](https://univoucher.com/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf) |
 | **SendToEmail** | [![SendToEmail](https://img.shields.io/badge/SendToEmail-5962ff?style=flat&logoColor=purple)](https://mor.org/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf) |
 | **Panoptic** | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | Feb 2026 | Private |
