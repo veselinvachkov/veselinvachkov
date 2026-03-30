@@ -18,6 +18,8 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 ## :crossed_swords: Private Engagements
 
+<div align="center">
+  
 <table>
   <tr>
     <th width="50" align="center">Id</th>
@@ -97,6 +99,8 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 ## :crossed_swords: Audit Contests
 
+<div align="center">
+  
 <table>
   <tr>
     <th width="100">:date: Date</th>
