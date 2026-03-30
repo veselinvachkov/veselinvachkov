@@ -2,17 +2,19 @@
 
 Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid Web2 foundation. What started as a suggestion from my cousin quickly turned into a deep passion for vulnerability research. Ratio changing bugs don't get past me, and I thrive on auditing non-standard, innovative protocol designs (something that you don't see every other day). I have been auditing **since Dec 2024**. 
 
-- Co-founder https://valvessecurity.com
-- **X** - [Vesko210](https://x.com/Vesko_210)
-- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
-
 ---
 
-## Education
+## 📚 Education
 - Bachelor’s Degree in Computer Systems and Technologies - Technical University | Sofia
 - Software University Courses - Core Java & Object-Oriented Design & Database
 
 ---
+
+## 🤝 Contacts
+- **Co-founder** https://valvessecurity.com
+- **Telegram** - [@vesko210](https://t.me/@vesko210)
+- **X** - [Vesko210](https://x.com/Vesko_210)
+- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
 
 ## :crossed_swords: Private Engagements
 
