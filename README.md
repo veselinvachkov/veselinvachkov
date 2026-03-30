@@ -3,8 +3,8 @@
 Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid Web2 foundation. What started as a suggestion from my cousin quickly turned into a deep passion for vulnerability research. Ratio changing bugs don't get past me, and I thrive on auditing non-standard, innovative protocol designs (something that you don't see every other day). I have been auditing **since Dec 2024**. 
 
 - Co-founder https://valvessecurity.com
-- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
 - **X** - [Vesko210](https://x.com/Vesko_210)
+- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
 
 ---
 
@@ -14,35 +14,210 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 ---
 
-## Private Engagements
+## :crossed_swords: Private Engagements
 
-| Protocol | Worked with | Date | Report | 
-|----------|-------------|------|--------| 
-| **need4audit** | [![need4audit](https://img.shields.io/badge/need4audit-00FF00?style=flat&logoColor=white)](https://www.need4audit.xyz/) | Mar 2026 | Private | 
-| **Opinion** | [![Pashov](https://img.shields.io/badge/Pashov-1d3af5?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private | 
-| **Gemint** | [![Pashov](https://img.shields.io/badge/Pashov-1d3af5?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private | 
-| **Panoptic** | [![Panoptic](https://img.shields.io/badge/Panoptic-6a1bf5?style=flat&logoColor=white)](https://panoptic.xyz/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf) | | **UniVoucher** | [![UniVoucher](https://img.shields.io/badge/UniVoucher-6566e8?style=flat&logoColor=purple)](https://univoucher.com/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf) | 
-| **SendToEmail** | [![SendToEmail](https://img.shields.io/badge/SendToEmail-5962ff?style=flat&logoColor=purple)](https://mor.org/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf) | 
-| **Panoptic** | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | Feb 2026 | Private | 
-| **Morpheus** | [![Morpheus](https://img.shields.io/badge/Morpheus-00FF00?style=flat&logoColor=grean)](https://mor.org/) | Jun 2025 | Private |
+<table>
+  <tr>
+    <th width="50" align="center">Id</th>
+    <th width="180">Protocol</th>
+    <th width="450">:ledger: Description</th>
+    <th width="110" align="center">:link: Report</th>
+    <th width="110">:date: Date</th>
+    <th width="140">:briefcase: Provider</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>8</strong></td>
+    <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
+    <td>Web3 security audit marketplace connecting protocols with vetted auditors for on-demand smart contract reviews</td>
+    <td align="center">private</td>
+    <td>Mar 2026</td>
+    <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>7</strong></td>
+    <td>Opinion</td>
+    <td>Decentralized opinion and sentiment protocol</td>
+    <td align="center">private</td>
+    <td>Mar 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>6</strong></td>
+    <td>Gemint</td>
+    <td>Gemstone-backed NFT minting and tokenization platform</td>
+    <td align="center">private</td>
+    <td>Mar 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>5</strong></td>
+    <td><a href="https://panoptic.xyz/">Panoptic</a></td>
+    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 that enables trading of put and call options by leveraging LP positions as the options primitive</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://panoptic.xyz/">Panoptic</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>4</strong></td>
+    <td><a href="https://univoucher.com/">UniVoucher</a></td>
+    <td>On-chain gift card protocol enabling users to wrap any ERC-20 token into redeemable NFT vouchers for gifting and payments</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://univoucher.com/">UniVoucher</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>3</strong></td>
+    <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
+    <td>Protocol enabling trustless crypto transfers via email address as the recipient identifier, abstracting away wallet complexity</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2</strong></td>
+    <td><a href="https://panoptic.xyz/">Panoptic</a></td>
+    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 — core contract security review</td>
+    <td align="center">private</td>
+    <td>Feb 2026</td>
+    <td><a href="https://code4rena.com">Code4rena</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>1</strong></td>
+    <td><a href="https://mor.org/">Morpheus</a></td>
+    <td>Decentralized peer-to-peer network for running AI Smart Agents, connecting users with crypto wallets and Web3 resources via the MOR token incentive layer</td>
+    <td align="center">private</td>
+    <td>Jun 2025</td>
+    <td><a href="https://mor.org/">Morpheus</a></td>
+  </tr>
+</table>
+
+---
+
+## :crossed_swords: Audit Contests
+
+<table>
+  <tr>
+    <th width="100">:date: Date</th>
+    <th width="220">Contest</th>
+    <th width="130">Platform</th>
+    <th width="180">Findings</th>
+    <th width="110">Earnings</th>
+    <th width="80" align="center">Rank</th>
+  </tr>
+  <tr>
+    <td>Dec 2025</td>
+    <td><strong>Panoptic: Next Core</strong></td>
+    <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+    <td>1 H, 4 M, 1 L (1 solo)</td>
+    <td><strong>$9,260.89</strong></td>
+    <td align="center">🥇 #1</td>
+  </tr>
+  <tr>
+    <td>Nov 2025</td>
+    <td><strong>SukukFi</strong></td>
+    <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+    <td>1 H, 2 M</td>
+    <td><strong>$2,652.15</strong></td>
+    <td align="center">🥉 #3</td>
+  </tr>
+  <tr>
+    <td>Dec 2025</td>
+    <td><strong>Monolith</strong></td>
+    <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+    <td>1 H, 1 M</td>
+    <td><strong>$1,691.11</strong></td>
+    <td align="center">🥉 #3</td>
+  </tr>
+  <tr>
+    <td>Jan 2026</td>
+    <td><strong>Flying Tulip</strong></td>
+    <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+    <td>---</td>
+    <td><strong>$4,309.48</strong></td>
+    <td align="center">#4</td>
+  </tr>
+  <tr>
+    <td>Oct 2025</td>
+    <td><strong>Avon-Contracts</strong></td>
+    <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+    <td>6 M, 2 L</td>
+    <td>$524.22</td>
+    <td align="center">#6</td>
+  </tr>
+  <tr>
+    <td>Apr 2025</td>
+    <td><strong>mighty-contracts</strong></td>
+    <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+    <td>4 H, 3 L</td>
+    <td>$491.10</td>
+    <td align="center">#15</td>
+  </tr>
+  <tr>
+    <td>Jun 2025</td>
+    <td><strong>succinct-network</strong></td>
+    <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+    <td>3 M</td>
+    <td>$249.30</td>
+    <td align="center">#27</td>
+  </tr>
+  <tr>
+    <td>Feb 2025</td>
+    <td><strong>TermMax</strong></td>
+    <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+    <td>2 M</td>
+    <td>$211.47</td>
+    <td align="center">#9</td>
+  </tr>
+  <tr>
+    <td>May 2025</td>
+    <td><strong>Blackhole</strong></td>
+    <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+    <td>2 M</td>
+    <td>$183.07</td>
+    <td align="center">#17</td>
+  </tr>
+  <tr>
+    <td>Jun 2025</td>
+    <td><strong>pike-tapio-monrepo</strong></td>
+    <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+    <td>2 M, 4 L</td>
+    <td>$130.34</td>
+    <td align="center">#18</td>
+  </tr>
+  <tr>
+    <td>May 2025</td>
+    <td><strong>ammalgam-contracts</strong></td>
+    <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+    <td>1 H</td>
+    <td>$114.56</td>
+    <td align="center">#18</td>
+  </tr>
+  <tr>
+    <td>Sep 2025</td>
+    <td><strong>Summer.fi</strong></td>
+    <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+    <td>1 M</td>
+    <td>$9.82</td>
+    <td align="center">#8</td>
+  </tr>
+  <tr>
+    <td>Aug 2025</td>
+    <td><strong>Morpheus</strong></td>
+    <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+    <td>1 M</td>
+    <td>$6.61</td>
+    <td align="center">#10</td>
+  </tr>
+  <tr>
+    <td>Dec 2024</td>
+    <td><strong>Flex Perpetuals</strong></td>
+    <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+    <td>1 M</td>
+    <td>$0.93</td>
+    <td align="center">#6</td>
+  </tr>
+</table>
 
 
-
-## Audit Contests
-
-| Date     | Contest                              | Platform   | Findings                 | Earnings        | Rank     |
-|----------|-------------------------------|------------|--------------------------|----------------|----------|
-| Dec 2025 | Panoptic: Next Core           | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 4 M 1 L  (1 solo)    | $9,260.89 | #1 🥇    |
-| Dec 2025 | Monolith                      | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H 1 M                  | $1,691.11 | #3 🥉    |
-| Nov 2025 | SukukFi                       | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 H 2 M                  | $2,652.15 | #3 🥉    |
-| Jan 2026 | Flying Tulip           | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)  |   ---   | $4,309.48 | #4     |
-| Oct 2025 | Avon-Contracts                | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 6 M, 2 L                 | $524.22 | #6       |
-| Sep 2025 | Summer.fi                     | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 M                      | $9.82 | #8       |
-| Aug 2025 | Morpheus                      | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 M                      | $6.61       | #10      |
-| Jun 2025 | pike-tapio-monrepo            | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 2 M 4 L                  | $130.34     | #18      |
-| Jun 2025 | succinct-network              | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 3 M                      | $249.3      | #27      |
-| May 2025 | Blackhole                     | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 2 M                      | $183.07     | #17      |
-| May 2025 | ammalgam-contracts            | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)   | 1 H                      | $114.56     | #18      |
-| Apr 2025 | mighty-contracts              | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 4 H, 3 L                 | $491.1      | #15      |
-| Feb 2025 | TermMax                       | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz)    | 2 M                      | $211.47     | #9       |
-| Dec 2024 | Flex Perpetuals               | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com)  | 1 M                      | $0.93       | #6       |
+## ✌️ Show your opinion
+Give a ⭐ if you like this portfolio!
