@@ -103,6 +103,8 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## :crossed_swords: Audit Contests
