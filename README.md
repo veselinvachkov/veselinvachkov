@@ -1,7 +1,16 @@
-# Audit Portfolio
+<div align="center">
 
+# Hi there, I'm Vesko210 👋
+
+### Web3 Security Researcher
+
+</div>
+
+## 🕵️‍♂️ About Me
 Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid Web2 foundation. What started as a suggestion from my cousin quickly turned into a deep passion for vulnerability research. Ratio changing bugs don't get past me, and I thrive on auditing non-standard, innovative protocol designs (something that you don't see every other day). I have been auditing **since Dec 2024**. 
 
+- **Co-founder** https://valvessecurity.com
+- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
 ---
 
 ## 📚 Education
@@ -11,10 +20,9 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 ---
 
 ## 🤝 Contacts
-- **Co-founder** https://valvessecurity.com
 - **Telegram** - [@vesko210](https://t.me/@vesko210)
+- **Linkedin** - [Veselin](https://www.linkedin.com/in/veselin-vachkov-a927232b5/)
 - **X** - [Vesko210](https://x.com/Vesko_210)
-- [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
 
 ## :crossed_swords: Private Engagements
 
