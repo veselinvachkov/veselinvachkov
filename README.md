@@ -11,13 +11,10 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 - **Co-founder** https://valvessecurity.com
 - [Short Resume](https://drive.google.com/file/d/1GPCwPua6a8jcyOPDjx1iQlghCgae28tH/view)
----
 
 ## 📚 Education
 - Bachelor’s Degree in Computer Systems and Technologies - Technical University | Sofia
 - Software University Courses - Core Java & Object-Oriented Design & Database
-
----
 
 ## 🤝 Contacts
 - **Telegram** - [@vesko210](https://t.me/@vesko210)
