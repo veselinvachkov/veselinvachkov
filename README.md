@@ -54,7 +54,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td align="center"><strong>8</strong></td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
     <td>Web3 security audit marketplace connecting protocols with vetted auditors for on-demand smart contract reviews</td>
-    <td align="center">https://github.com/Valves-Sec/reports/blob/main/Need4Audit.pdf</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Need4Audit.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
   </tr>
