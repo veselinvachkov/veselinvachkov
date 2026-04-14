@@ -35,6 +35,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="140">:briefcase: Provider</th>
   </tr>
   <tr>
+    <td align="center"><strong>10</strong></td>
+    <td><a href="https://www.snuggle.fi/">Olla</a></td>
+    <td>liquid staking protocol on the Aztec network that allows users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault.</td>
+    <td align="center">private</td>
+    <td>Apr 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
     <td>Zero-swap LP rebalancing on Base and Arbitrum. No swap fees. No slippage. Just yield and passive income.</td>
