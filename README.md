@@ -36,7 +36,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   </tr>
   <tr>
     <td align="center"><strong>10</strong></td>
-    <td><a href="https://www.snuggle.fi/">Olla</a></td>
+    <td>Olla</td>
     <td>liquid staking protocol on the Aztec network that allows users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault.</td>
     <td align="center">private</td>
     <td>Apr 2026</td>
