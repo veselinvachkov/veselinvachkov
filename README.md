@@ -24,7 +24,6 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 ## :crossed_swords: Private Engagements
 
 <div align="center">
-  
 <table>
   <tr>
     <th width="50" align="center">Id</th>
@@ -36,8 +35,8 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   </tr>
   <tr>
     <td align="center"><strong>10</strong></td>
-    <td>Olla</td>
-    <td>liquid staking protocol on the Aztec network that allows users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault.</td>
+    <td><a href="https://www.snuggle.fi/">Olla</a></td>
+    <td>liquid staking protocol on the Aztec network. Users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault</td>
     <td align="center">private</td>
     <td>Apr 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
@@ -45,7 +44,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
-    <td>Zero-swap LP rebalancing on Base and Arbitrum. No swap fees. No slippage. Just yield and passive income.</td>
+    <td>Zero-swap Liquidity Manager on Base and Arbitrum. Yield and passive income</td>
     <td align="center">private</td>
     <td>Apr 2026</td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
@@ -53,7 +52,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>8</strong></td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
-    <td>Web3 security audit marketplace connecting protocols with vetted auditors for on-demand smart contract reviews</td>
+    <td>Web3 security audit marketplace connecting protocols with auditors for smart contract reviews</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Need4Audit.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
@@ -61,7 +60,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>7</strong></td>
     <td>Opinion</td>
-    <td>Decentralized opinion and sentiment protocol</td>
+    <td>UUPS-upgradeable dispute resolution contract for prediction market settlement</td>
     <td align="center">private</td>
     <td>Mar 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
@@ -69,7 +68,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>6</strong></td>
     <td>Gemint</td>
-    <td>Gemstone-backed NFT minting and tokenization platform</td>
+    <td>An upgradeable NFT and gacha controller system for physical collectible cards</td>
     <td align="center">private</td>
     <td>Mar 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
@@ -77,7 +76,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>5</strong></td>
     <td><a href="https://panoptic.xyz/">Panoptic</a></td>
-    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 that enables trading of put and call options by leveraging LP positions as the options primitive</td>
+    <td>Built on Uniswap V3 that enables trading of put and call options by leveraging LP positions</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://panoptic.xyz/">Panoptic</a></td>
@@ -85,7 +84,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>4</strong></td>
     <td><a href="https://univoucher.com/">UniVoucher</a></td>
-    <td>On-chain gift card protocol enabling users to wrap any ERC-20 token into redeemable NFT vouchers for gifting and payments</td>
+    <td>On-chain gift card protocol enabling users to wrap any ERC-20 into redeemable NFT vouchers for gifting</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://univoucher.com/">UniVoucher</a></td>
@@ -93,7 +92,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>3</strong></td>
     <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
-    <td>Protocol enabling trustless crypto transfers via email address as the recipient identifier, abstracting away wallet complexity</td>
+    <td>Trustless crypto transfers via email address as the recipient identifier, abstracting away wallet complexity</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
@@ -101,7 +100,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>2</strong></td>
     <td><a href="https://panoptic.xyz/">Panoptic</a></td>
-    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 — core contract security review</td>
+    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3</td>
     <td align="center">private</td>
     <td>Feb 2026</td>
     <td><a href="https://code4rena.com">Code4rena</a></td>
@@ -109,7 +108,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   <tr>
     <td align="center"><strong>1</strong></td>
     <td><a href="https://mor.org/">Morpheus</a></td>
-    <td>Decentralized peer-to-peer network for running AI Smart Agents, connecting users with crypto wallets and Web3 resources via the MOR token incentive layer</td>
+    <td>Decentralized peer-to-peer network for running AI Smart Agents, connecting users with crypto wallets</td>
     <td align="center">private</td>
     <td>Jun 2025</td>
     <td><a href="https://mor.org/">Morpheus</a></td>
