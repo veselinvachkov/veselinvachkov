@@ -34,6 +34,22 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="140">:briefcase: Provider</th>
   </tr>
   <tr>
+    <td align="center"><strong>12</strong></td>
+    <td><a href="https://ezmanager.finance/">EzManager</a></td>
+    <td>EZManager tracks each position from open to close, through every rebalance, capital change, compound and collect</td>
+    <td align="center">private</td>
+    <td>May 2026</td>
+    <td><a href="https://ezmanager.finance/">EzManager</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>11</strong></td>
+    <td><a href="https://www.flowvest.io/">Flowvest</a></td>
+    <td>Flowvest is a fixed‐term, on‐chain monthly payment tool for predictable stablecoin transfers</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Flowvest.pdf">Report PDF</a></td>
+    <td>May 2026</td>
+    <td><a href="https://www.flowvest.io/">Flowvest</a></td>
+  </tr>
+  <tr>
     <td align="center"><strong>10</strong></td>
     <td><a href="https://www.snuggle.fi/">Olla</a></td>
     <td>liquid staking protocol on the Aztec network. Users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault</td>
