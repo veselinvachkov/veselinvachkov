@@ -45,7 +45,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td align="center"><strong>11</strong></td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
     <td>Flowvest is a fixed‐term, on‐chain monthly payment tool for predictable stablecoin transfers</td>
-    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Flowvest.pdf">Report PDF</a></td>
+    <td align="center">private</td>
     <td>May 2026</td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
   </tr>
