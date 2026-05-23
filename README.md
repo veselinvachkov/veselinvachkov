@@ -141,7 +141,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   
 <table>
   <tr>
-    <th width="100">:date: Date</th>
+    <th width="110">:date: Date</th>
     <th width="220">Contest</th>
     <th width="130">Platform</th>
     <th width="180">Findings</th>
@@ -178,6 +178,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
     <td>---</td>
     <td><strong>$4,309.48</strong></td>
+    <td align="center">#4</td>
+  </tr>
+  <tr>
+    <td>May 2026</td>
+    <td><strong>Monetrix</strong></td>
+    <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+    <td>33 L</td>
+    <td><strong>  </strong></td>
     <td align="center">#4</td>
   </tr>
   <tr>
