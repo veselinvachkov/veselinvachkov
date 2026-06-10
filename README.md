@@ -38,7 +38,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td><a href="https://raac.io/">RAAC</a></td>
     <td>A DeFi lending and borrowing ecosystem powered by Real-World Assets</td>
     <td align="center">private</td>
-    <td>May 2026</td>
+    <td>June 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
     <tr>
