@@ -278,6 +278,35 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   </tr>
 </table>
 
+## 🛡️ Protocol Contributions
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="220">Protocol</th>
+    <th width="200">Findings</th>
+    <th width="120">Date</th>
+  </tr>
+  <tr>
+    <td><strong><a href="https://lagoon.finance/">Lagoon</a></strong></td>
+    <td>1 Medium</td>
+    <td>June 2026</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.pred.app/">PRED</a></strong></td>
+    <td>1 Medium</td>
+    <td>June 2026</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://sukuk.fi/">SukukFi</a></strong></td>
+    <td>1 Medium, 1 Low</td>
+    <td>Jul 2026</td>
+  </tr>
+</table>
+
+</div>
+
 
 ## ✌️ Show your opinion
 Give a ⭐ if you like this portfolio!
