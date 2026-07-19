@@ -18,7 +18,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
 
 ## 🤝 Contacts
 - **Telegram** - [@vesko210](https://t.me/@vesko210)
-- **Linkedin** - [Veselin](https://www.linkedin.com/in/veselin-vachkov-a927232b5/)
+- **Linkedin** - [Veselin](https://www.linkedin.com/in/veselin-georgiev-vachkov-a927232b5/)
 - **X** - [Vesko210](https://x.com/Vesko_210)
 
 ## :crossed_swords: Private Engagements
