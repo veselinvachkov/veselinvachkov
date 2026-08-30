@@ -34,6 +34,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="140">:briefcase: Provider</th>
   </tr>
   <tr>
+    <td align="center"><strong>15</strong></td>
+    <td>Canton-hackathon-cloakRFQ</td>
+    <td>Private invoice-financing RFQs on Canton.</td>
+    <td align="center"><a href="">Report PDF</a></td>
+    <td>August 2026</td>
+    <td>Canton-hackathon-cloakRFQ</td>
+  </tr>
+  <tr>
     <td align="center"><strong>14</strong></td>
     <td><a>Ensemble</a></td>
     <td>Leveraged perpetuals vault system on HyperEVM</td>
