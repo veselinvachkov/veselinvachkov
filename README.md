@@ -34,7 +34,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="140">:briefcase: Provider</th>
   </tr>
   <tr>
-    <td align="center"><strong>16</strong></td>
+  <td align="center"><strong>16</strong></td>
     <td><a>K3-Capital</a></td>
     <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
     <td align="center">private</td>
