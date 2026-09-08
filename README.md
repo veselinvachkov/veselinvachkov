@@ -34,6 +34,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="140">:briefcase: Provider</th>
   </tr>
   <tr>
+  <td align="center"><strong>17</strong></td>
+    <td><a>Pare</a></td>
+    <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
+    <td align="center">private</td>
+    <td>September 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
   <td align="center"><strong>16</strong></td>
     <td><a>K3-Capital</a></td>
     <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
