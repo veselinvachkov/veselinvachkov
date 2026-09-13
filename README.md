@@ -33,6 +33,13 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+  <td align="center"><strong>18</strong></td>
+    <td><a>Trevee</a></td>
+    <td>Stablecoin reserve protocol that manages risk-isolated multi-asset BaseReserves and two-leg MetaReserves, where users deposit stablecoins to receive LP tokens, perform oracle-priced intra-reserve swaps.</td>
+    <td align="center">private</td>
+    <td>September 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
   <tr>
   <td align="center"><strong>17</strong></td>
     <td><a>Pare</a></td>
