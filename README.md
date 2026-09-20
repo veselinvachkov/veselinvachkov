@@ -33,6 +33,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+  <tr>
+    <td align="center"><strong>19</strong></td>
+    <td><a href="https://www.lunya.io/">Lunya</a></td>
+    <td>Concentrated, volatile and stable pools under one router, real yield paid from protocol fees, and launches whose liquidity is locked at graduation.</td>
+    <td align="center">private</td>
+    <td>Sep 2026</td>
+    <td><a href="https://www.lunya.io/">Lunya</a></td>
+  </tr>
   <td align="center"><strong>18</strong></td>
     <td><a>Trevee</a></td>
     <td>Stablecoin reserve protocol that manages risk-isolated multi-asset BaseReserves and two-leg MetaReserves, where users deposit stablecoins to receive LP tokens, perform oracle-priced intra-reserve swaps.</td>
