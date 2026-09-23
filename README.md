@@ -34,12 +34,19 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="140">:briefcase: Provider</th>
   </tr>
   <tr>
-    <td align="center"><strong>19</strong></td>
+    <td align="center"><strong>20</strong></td>
     <td><a href="https://www.lunya.io/">Lunya</a></td>
     <td>Concentrated, volatile and stable pools under one router, real yield paid from protocol fees, and launches whose liquidity is locked at graduation.</td>
     <td align="center">private</td>
-    <td>Sep 2026</td>
+    <td>September 2026</td>
     <td><a href="https://www.lunya.io/">Lunya</a></td>
+  </tr>
+  <td align="center"><strong>19</strong></td>
+    <td><a>Pare 2</a></td>
+    <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
+    <td align="center">private</td>
+    <td>September 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
   <td align="center"><strong>18</strong></td>
     <td><a>Trevee</a></td>
