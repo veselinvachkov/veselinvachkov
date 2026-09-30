@@ -33,6 +33,22 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+    <tr>
+  <td align="center"><strong>22</strong></td>
+    <td><a href="https://www.wincent.com/">Wincent</a></td>
+    <td>Gas-optimized modular DEX-aggregator swap router integrating Uniswap V1-V4, Balancer, Curve and Fluid, plus Lido staking, Maker-PSM stables and MEV backruns.</td>
+    <td align="center">private</td>
+    <td>September 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>21</strong></td>
+    <td>Veil</td>
+    <td>Concentrated, volatile and stable pools under one router, real yield paid from protocol fees, and launches whose liquidity is locked at graduation.</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Veil.pdf">Report PDF</a></td>
+    <td>September 2026</td>
+    <td>Veil</td>
+  </tr>
   <tr>
     <td align="center"><strong>20</strong></td>
     <td><a href="https://www.lunya.io/">Lunya</a></td>
@@ -41,15 +57,17 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td>September 2026</td>
     <td><a href="https://www.lunya.io/">Lunya</a></td>
   </tr>
+    <tr>
   <td align="center"><strong>19</strong></td>
-    <td><a>Pare 2</a></td>
+    <td><a href="https://parestocks.com/">Pare 2</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-28.pdf">Report PDF</a></td>
     <td>September 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
+    <tr>
   <td align="center"><strong>18</strong></td>
-    <td><a>Trevee</a></td>
+    <td><a href="https://trevee.xyz/">Trevee</a></td>
     <td>Stablecoin reserve protocol that manages risk-isolated multi-asset BaseReserves and two-leg MetaReserves, where users deposit stablecoins to receive LP tokens, perform oracle-priced intra-reserve swaps.</td>
     <td align="center">private</td>
     <td>September 2026</td>
@@ -57,17 +75,17 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   </tr>
   <tr>
   <td align="center"><strong>17</strong></td>
-    <td><a>Pare</a></td>
+    <td><a href="https://parestocks.com/">Pare</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-17.pdf">Report PDF</a></td>
     <td>September 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
   <tr>
   <td align="center"><strong>16</strong></td>
-    <td><a>K3-Capital</a></td>
+    <td><a href="https://www.k3.capital/">K3-Capital</a></td>
     <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/K3-security-review_2026-09-03.pdf">Report PDF</a></td>
     <td>August 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
@@ -75,7 +93,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td align="center"><strong>15</strong></td>
     <td>Canton-hackathon-cloakRFQ</td>
     <td>Private invoice-financing RFQs on Canton.</td>
-    <td align="center"><a href="">Report PDF</a></td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/RFQ.pdf">Report PDF</a></td>
     <td>August 2026</td>
     <td>Canton-hackathon-cloakRFQ</td>
   </tr>
@@ -83,7 +101,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td align="center"><strong>14</strong></td>
     <td><a>Ensemble</a></td>
     <td>Leveraged perpetuals vault system on HyperEVM</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Ensemble-security-review_2026-09-14.pdf">Report PDF</a></td>
     <td>July 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
@@ -107,7 +125,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td align="center"><strong>11</strong></td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
     <td>Flowvest is a fixed‐term, on‐chain monthly payment tool for predictable stablecoin transfers</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Flowvest.pdf">Report PDF</a></td>
     <td>May 2026</td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
   </tr>
@@ -123,7 +141,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
     <td>Zero-swap Liquidity Manager on Base and Arbitrum. Yield and passive income</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Snuggle-MaxFi.pdf">Report PDF</a></td>
     <td>Apr 2026</td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
   </tr>
@@ -145,7 +163,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
   </tr>
   <tr>
     <td align="center"><strong>6</strong></td>
-    <td>Gemint</td>
+    <td><a href="https://www.gemint.io/">Gemint</a></td>
     <td>An upgradeable NFT and gacha controller system for physical collectible cards</td>
     <td align="center">private</td>
     <td>Mar 2026</td>
