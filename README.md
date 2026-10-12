@@ -33,6 +33,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+  <tr>
+    <td align="center"><strong>24</strong></td>
+    <td><a href="https://parestocks.com/">Pare 3</a></td>
+    <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
+    <td align="center">Report PDF</td>
+    <td>October 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
     <tr>
   <td align="center"><strong>23</strong></td>
     <td>Olympusx</td>
