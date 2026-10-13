@@ -49,14 +49,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td>October 2026</td>
     <td><a href="https://audita.io/">Audita</a></td>
   </tr>
-    <tr>
-  <td align="center"><strong>22</strong></td>
-    <td><a href="https://www.wincent.com/">Wincent</a></td>
-    <td>Gas-optimized modular DEX-aggregator swap router integrating Uniswap V1-V4, Balancer, Curve and Fluid, plus Lido staking, Maker-PSM stables and MEV backruns.</td>
-    <td align="center">private</td>
-    <td>October 2026</td>
-    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
-  </tr>
+
     <tr>
     <td align="center"><strong>21</strong></td>
     <td>Veil</td>
