@@ -33,7 +33,7 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
-  <tr>
+    <tr>
     <td align="center"><strong>24</strong></td>
     <td><a href="https://parestocks.com/">Pare 3</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
@@ -49,7 +49,14 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <td>October 2026</td>
     <td><a href="https://audita.io/">Audita</a></td>
   </tr>
-
+    <tr>
+  <td align="center"><strong>22</strong></td>
+    <td>Private</td>
+    <td>Gas-optimized modular DEX-aggregator swap router.</td>
+    <td align="center">private</td>
+    <td>October 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
     <tr>
     <td align="center"><strong>21</strong></td>
     <td>Veil</td>
