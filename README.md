@@ -33,6 +33,13 @@ Hi, I'm **Veselin Vachkov**, a smart contract security researcher with a solid W
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+  <td align="center"><strong>26</strong></td>
+    <td><a href="https://kamino.com/">Kamino</a></td>
+    <td>Protocol on Solana that lets users deposit crypto assets to earn interest while enabling others to borrow those assets using collateral.</td>
+    <td align="center">private</td>
+    <td>October 2026</td>
+    <td><a href="https://audit-engine.sherlock.xyz/">Sherlock</a></td>
+  </tr>
   <td align="center"><strong>25</strong></td>
     <td>Private</td>
     <td>Мulti-collateral floating-par CDP stablecoin protocol.</td>
